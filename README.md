@@ -1,3 +1,5 @@
-# Velvet Coffee Projects
+```
+Velvet Coffee
+```
 
-![logo](./logo.jpg)
+![VelvetCoffee](https://raw.githubusercontent.com/velvetcoffee/velvetcoffee.github.io/master/assets/img/header.jpg)
